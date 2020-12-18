@@ -2,40 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b1d0cb1-2ff4-467f-b21e-ca8b9096878e" name="Default Changelist" comment="V2.0修改版">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/EVCharge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/EVCharge.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EVCharge/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EVCharge/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EVCharge/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/EVCharge/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EVCharge/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/EVCharge/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EVCharge/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/EVCharge/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EVTest/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EVTest/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EVTest/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/EVTest/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EVTest/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/EVTest/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EVTest/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/EVTest/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EVTest/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/EVTest/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EVTest/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/EVTest/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EVTest/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/EVTest/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/alien.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/alien.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/load.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/load.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/demo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/charge.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/charge.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/discharge.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/discharge.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/test.html" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,13 +25,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>electi</find>
-      <find>stat</find>
-      <find>money</find>
-      <find>charge</find>
-    </findStrings>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="master" />
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -69,18 +36,31 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="2ef1a90c-96c2-4efb-bfc3-3192dff903a8" />
   <component name="ProjectId" id="1Q2MXXZ6YGIIvitqYRfgLNx8zSq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../history_weather_script" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -92,19 +72,29 @@
       <recent name="G:\Users\Administrator\PycharmProjects\EVCharge\templates" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="EVCharge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="EVCharge" type="Python.DjangoServer" factoryName="Django server">
       <module name="EVCharge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,10 +109,10 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="launchJavascriptDebuger" value="false" />
-      <option name="port" value="8000" />
-      <option name="host" value="10.168.1.185" />
+      <option name="port" value="9001" />
+      <option name="host" value="localhost" />
       <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="http://10.168.1.185:8000/" />
+      <option name="browserUrl" value="http://localhost:9001/" />
       <option name="runTestServer" value="false" />
       <option name="runNoReload" value="false" />
       <option name="useCustomRunCommand" value="false" />
@@ -130,6 +120,7 @@
       <method v="2" />
     </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -161,6 +152,12 @@
       <workItem from="1566974586468" duration="2294000" />
       <workItem from="1566982630490" duration="31000" />
       <workItem from="1566982678224" duration="822000" />
+      <workItem from="1605005815704" duration="2511000" />
+      <workItem from="1605056400379" duration="4709000" />
+      <workItem from="1605856795764" duration="8000" />
+      <workItem from="1606219080067" duration="32000" />
+      <workItem from="1608181753754" duration="4346000" />
+      <workItem from="1608196357831" duration="1260000" />
     </task>
     <task id="LOCAL-00001" summary="V2.0修改版">
       <created>1566205985481</created>
@@ -203,24 +200,57 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="V2.0修改版" />
     <MESSAGE value="连接至QIANG 10.168.1.245 MySQL数据库" />
     <option name="LAST_COMMIT_MESSAGE" value="连接至QIANG 10.168.1.245 MySQL数据库" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="177" width="1084" height="794" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605075696367">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="418" y="177" width="1084" height="794" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.985@0.27.1920.985" timestamp="1605075696367" />
+    <state x="737" y="283" width="424" height="491" key="FileChooserDialogImpl" timestamp="1606219106316">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="737" y="283" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.985@0.27.1920.985" timestamp="1606219106316" />
+    <state width="1866" height="6" key="GridCell.Tab.0.bottom" timestamp="1608181786001">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1866" height="6" key="GridCell.Tab.0.bottom/0.27.1920.985@0.27.1920.985" timestamp="1608181786001" />
+    <state width="1866" height="6" key="GridCell.Tab.0.center" timestamp="1608181786000">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1866" height="6" key="GridCell.Tab.0.center/0.27.1920.985@0.27.1920.985" timestamp="1608181786000" />
+    <state width="1866" height="6" key="GridCell.Tab.0.left" timestamp="1608181786000">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1866" height="6" key="GridCell.Tab.0.left/0.27.1920.985@0.27.1920.985" timestamp="1608181786000" />
+    <state width="1866" height="6" key="GridCell.Tab.0.right" timestamp="1608181786000">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state width="1866" height="6" key="GridCell.Tab.0.right/0.27.1920.985@0.27.1920.985" timestamp="1608181786000" />
+    <state x="441" y="154" width="1037" height="737" key="SettingsEditor" timestamp="1605007259474">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="441" y="154" width="1037" height="737" key="SettingsEditor/0.27.1920.985@0.27.1920.985" timestamp="1605007259474" />
+    <state x="651" y="176" width="617" height="686" key="find.popup" timestamp="1605007654739">
+      <screen x="0" y="27" width="1920" height="985" />
+    </state>
+    <state x="651" y="176" width="617" height="686" key="find.popup/0.27.1920.985@0.27.1920.985" timestamp="1605007654739" />
   </component>
 </project>
